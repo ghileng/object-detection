@@ -1,0 +1,58 @@
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/10.jpg 14,29,270,274,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/104.jpg 200,198,357,366,0 38,193,200,361,0 137,46,291,213,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/12.jpg 495,328,972,715,0 48,181,542,671,0 515,113,917,419,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/134.jpg 14,24,163,176,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/136.jpg 61,61,502,486,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/174.jpg 38,161,269,378,1 92,249,307,439,1 137,85,328,275,1 280,173,485,376,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/201.jpg 35,34,382,373,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/210.jpg 135,34,262,164,1 408,309,546,453,1 281,167,416,307,1 420,44,550,171,1 128,312,269,459,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/212.jpg 178,32,340,192,1 367,40,533,205,1 543,46,705,210,1 1,46,161,200,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/219.jpg 154,411,475,584,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/22.jpg 123,250,306,447,1 231,64,464,266,1 470,231,624,449,1 276,198,541,458,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/230.jpg 27,39,267,281,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/24.jpg 15,8,206,194,1 56,157,260,289,1 204,48,388,249,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/245.jpg 28,60,368,409,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/252.jpg 6,23,275,294,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/254.jpg 9,21,293,308,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/264.jpg 69,38,449,248,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/284.jpg 38,47,335,290,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/293.jpg 9,4,225,209,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/310.jpg 11,18,476,397,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/319.jpg 29,12,159,138,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/346.jpg 13,18,365,382,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/352.jpg 113,74,370,333,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/360.jpg 29,60,285,308,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/373.jpg 10,19,193,197,0 9,18,195,197,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/407.jpg 7,10,139,131,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/421.jpg 13,42,366,390,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/435.jpg 18,20,207,224,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/439.jpg 19,46,332,342,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/444.jpg 27,22,386,400,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/449.jpg 29,37,287,291,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/452.jpg 95,19,454,399,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/462.jpg 36,39,328,333,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/463.jpg 46,7,167,131,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/465.jpg 9,13,349,376,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/471.jpg 22,30,444,415,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/478.jpg 28,14,438,430,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/483.jpg 6,66,212,282,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/498.jpg 9,3,177,148,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/512.jpg 16,13,317,302,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/514.jpg 3,11,422,419,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/522.jpg 12,19,187,199,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/531.jpg 40,1,276,202,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/546.jpg 15,27,445,425,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/563.jpg 16,2,307,267,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/567.jpg 28,27,260,255,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/57.jpg 164,215,1590,1653,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/585.jpg 38,31,294,292,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/59.jpg 237,70,1960,2187,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/6.jpg 7,51,694,775,1 209,413,956,858,1 622,8,1256,673,1 546,500,1112,1022,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/61.jpg 103,101,364,366,0 263,416,484,640,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/65.jpg 86,125,412,448,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/69.jpg 31,41,397,382,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/71.jpg 40,52,397,374,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/78.jpg 44,48,387,337,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/82.jpg 99,19,439,391,1
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/93.jpg 286,21,533,255,0 128,99,424,381,0
+D:\Desktop\object detection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/98.jpg 181,17,335,137,0 17,26,176,203,0 153,74,326,261,0
